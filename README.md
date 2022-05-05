@@ -2,7 +2,7 @@
 ### Determines snow cover on glaciers from Landsat imagery. 
 
 
-This script determines the snow cover extent on glaciers in the GLIMS database the topographic correction relies on the USGS 3DEP DEM, so glaciers outside the US require the users to input different elevation data. 
+This script determines the snow cover extent on glaciers in the GLIMS database. The topographic correction relies on the USGS 3DEP DEM, so glaciers outside the US require the user to provide a different elevation data source. 
 
 The method followed is largely based on:
 
