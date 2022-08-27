@@ -10,4 +10,4 @@ On the automated mapping of snow cover on glaciers and calculation of snow line 
 Remote Sensing, 11(12), p.1410.
 
 - snowlines7.js determines snow cover extent on a glaicer from individual LS images.
-- annual_AAR.js is based on snowlines7, but combines imagery from a temproal range into yearly minimum values of surface relfectance. This allows the automated determination of yearly Accumulation Area Ratios.  
+- annual_AAR.js is based on snowlines7, but combines imagery from a temporal range into yearly minimum values of surface relfectance. This allows the automated determination of yearly Accumulation Area Ratios.  
